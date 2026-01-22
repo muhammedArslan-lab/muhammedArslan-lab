@@ -139,18 +139,12 @@ A content-driven reading and engagement application.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedArslan-lab&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammedArslan-lab&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-arslan-a21139202/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:whynot6108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FFFFFF?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammad-arslan-a21139202/)
+[![Email](https://img.shields.io/badge/Email-%23FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:whynot6108@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-%23FFFFFF?style=flat-square&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/s/WEqyQw7)
+[![Upwork](https://img.shields.io/badge/Upwork-%23FFFFFF?style=flat-square&logo=upwork&logoColor=6FBD44)](https://www.upwork.com/freelancers/~015d6833648d77745f?mp_source=share)
 
 ---
 
