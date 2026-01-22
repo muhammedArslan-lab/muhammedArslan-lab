@@ -141,10 +141,10 @@ A content-driven reading and engagement application.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FFFFFF?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammad-arslan-a21139202/)
-[![Email](https://img.shields.io/badge/Email-%23FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:whynot6108@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%23FFFFFF?style=flat-square&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/s/WEqyQw7)
-[![Upwork](https://img.shields.io/badge/Upwork-%23FFFFFF?style=flat-square&logo=upwork&logoColor=6FBD44)](https://www.upwork.com/freelancers/~015d6833648d77745f?mp_source=share)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/muhammad-arslan-a21139202/)
+[![Email](https://img.shields.io/badge/Email-%23000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:whynot6108@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-%23000000?style=flat-square&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/s/WEqyQw7)
+[![Upwork](https://img.shields.io/badge/Upwork-%23000000?style=flat-square&logo=upwork&logoColor=6FBD44)](https://www.upwork.com/freelancers/~015d6833648d77745f?mp_source=share)
 
 ---
 
