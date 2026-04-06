@@ -37,7 +37,7 @@ A fitness-focused mobile app designed to support gym users and structured fitnes
 
 ---
 
-### 🩺 MUNDOSALUD  
+### 🩺 Mundo Salud  
 A healthcare-related application focused on accessibility and user-friendly experience.
 
 - 📱 **Platform:** Android  
@@ -48,7 +48,7 @@ A healthcare-related application focused on accessibility and user-friendly expe
 
 ---
 
-### 🕌 MUSLIM COUNCIL  
+### 🕌 Muslim Council Of Calgary 
 A community-focused application providing announcements, resources, and engagement features.
 
 - 📱 **Platform:** Android & iOS  
