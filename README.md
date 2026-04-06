@@ -28,7 +28,7 @@ I’ve also contributed to multiple private and in-progress applications.
 A fitness-focused mobile app designed to support gym users and structured fitness programs.
 
 - 📱 **Platform:** Android & iOS  
-- 🎨 **Work:** UI development (pixel-perfect), API integration  
+- 🎨 **Work:** UI development (pixel-perfect), API integration, Stripe Payment Gateway Integration, Real-Time Chat Integration  
 - 💳 **Features:** In-App Subscriptions  
 - 🛠 **Tech:** React Native, Redux, React Query, REST APIs, Firebase  
 
@@ -41,7 +41,7 @@ A fitness-focused mobile app designed to support gym users and structured fitnes
 A healthcare-related application focused on accessibility and user-friendly experience.
 
 - 📱 **Platform:** Android  
-- 🎨 **Work:** UI development, API integration  
+- 🎨 **Work:** UI development, API integration, In App Updates/OTA Updates, Stripe Payment Gateway Integration, Real-Time Chat Integration  
 - 🛠 **Tech:** React Native, REST APIs  
 
 👉 **Android:** https://play.google.com/store/apps/details?id=com.app.mundoSalud
@@ -52,7 +52,7 @@ A healthcare-related application focused on accessibility and user-friendly expe
 A community-focused application providing announcements, resources, and engagement features.
 
 - 📱 **Platform:** Android & iOS  
-- 🎨 **Work:** UI development, API integration  
+- 🎨 **Work:** UI development, API integration, In App Updates/OTA Updates  
 - 🔔 **Features:** Push notifications  
 - 🛠 **Tech:** React Native, Firebase  
 
@@ -65,7 +65,7 @@ A community-focused application providing announcements, resources, and engageme
 A content-driven reading and engagement application.
 
 - 📱 **Platform:** iOS  
-- 🎨 **Work:** UI development, API integration  
+- 🎨 **Work:** UI development, API integration, Stripe Payment Gateway Integration, Real-Time Chat Integration
 - 🛠 **Tech:** React Native, REST APIs  
 
 👉 **iOS:** https://apps.apple.com/us/app/verbaverse/id6739344483
